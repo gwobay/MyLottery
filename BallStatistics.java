@@ -14,7 +14,8 @@ public class BallStatistics {
 		double idleMean;
 		double idleVariant;
 		int nextOnDay; 
-		double nextOnVar;// use distribution for X > currentIdleDays
+		double nextOnVar;
+// use distribution for X > currentIdleDays
 		int predict66;
 		int predict75;
 		int predict80;
